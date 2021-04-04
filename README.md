@@ -1,6 +1,6 @@
 <h2>Agustin Annacondia</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-agustinannacondia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianachoque/)](https://www.linkedin.com/in/vivianachoque/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vivianachoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianachoque/)](https://www.linkedin.com/in/vivianachoque/) 
 [![Gmail Badge](https://img.shields.io/badge/-vivianaachoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivianaachoque@gmail.com)](mailto:vivianaachoque@gmail.com)
 
 
