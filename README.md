@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Agustin Annacondia</h2>
 
-<!--
-**vivianachoque/vivianachoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-agustinannacondia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianachoque/)](https://www.linkedin.com/in/vivianachoque/) 
+[![Gmail Badge](https://img.shields.io/badge/-vivianaachoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivianaachoque@gmail.com)](mailto:vivianaachoque@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😃 Mi nombre es Viviana Choque. 🏡 Soy de Buenos Aires, Argentina. 🎓 Actualmente estoy en 3° año de Licenciatura en Administración y Gestión Empresarial en la [Universidad Nacional de San Martin] (unsam.edu.ar). 
+💻 Además, trabajo como Desarrolladora de Software en [Emergencias](https://www.emergencias.com.ar/) desde Febrero 2021.
+
+## ⚡ Tecnologías
+
+- Desarrollo Front-End con **HTML, CSS, JavaScript, React.Js y Next.Js**
+- Experiencia en Bases de Datos Relacionales **(SQL Server)**
