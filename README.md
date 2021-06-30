@@ -5,7 +5,7 @@
 
 
 😃 Mi nombre es Viviana Choque. 🏡 Soy de Buenos Aires, Argentina. 🎓 Actualmente estoy en 3° año de Licenciatura en Administración y Gestión Empresarial en la [Universidad Nacional de San Martin](http://unsam.edu.ar/). 
-💻 Además, trabajo como Desarrolladora de Software en [Emergencias](https://www.emergencias.com.ar/) desde Febrero 2021.
+💻 Además, trabajo como Desarrolladora de Software en [PwC](https://www.pwc.com.ar/) desde Junio 2021.
 
 ## ⚡ Tecnologías
 
